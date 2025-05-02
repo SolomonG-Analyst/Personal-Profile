@@ -1,8 +1,10 @@
 # Hi, I'm Solomon Guta 👋
 
-Welcome to my GitHub profile! I'm a **Statistician**, **Data Analyst**, and **IT Auditor** with a passion for transforming raw data into insightful visualizations and actionable strategies. 
 
-I have a solid background in **Python**, **Power BI**, and **Excel**, and I specialize in data analysis, visualization, and audit processes. Whether it's exploring trends in large datasets, building dashboards, or performing in-depth statistical analysis, I am always excited to bring data-driven solutions to the table.
+Welcome to my GitHub profile! Here you'll find a **statistician**, **data analyst** and **IT auditor** passionate about turning messy datasets into insightful pieces of art with the help of modern technologies.
+
+I am proficient with **Python**, **Power BI**, and **Excel**, and emphasize in **data analysis**, **data visualization**, and **auditing procedures**. From identifying patterns in enormous data files to crafting dashboards and performing complex statistical computations, 
+At the end of the day, I am eager to solve problems and make discoveries through data
 
 ## 🚀 Key Skills & Technologies:
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
