@@ -27,7 +27,7 @@ At the end of the day, I am eager to solve problems and make discoveries through
 - LinkedIn: [solomon-guta](https://www.linkedin.com/in/solomon-guta-85296326b/)
 - Email: solomonguta46@gmail.com 
 
-Feel free to explore my projects, contribute to open-source, or reach out to collaborate on data-driven projects! 😄
+<!--- Feel free to explore my projects, contribute to open-source, or reach out to collaborate on data-driven projects! 😄--->
 
 
 <!---
