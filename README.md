@@ -8,7 +8,7 @@ At the end of the day, I am eager to solve problems and make discoveries through
 
 ## 🚀 Key Skills & Technologies:
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Power BI** (Creating interactive dashboards and visualizations)
+- **Power BI** (Creating interactive dashboards,DAX analysis and visualizations)
 - **Excel** (Advanced functions, PivotTables, and Data Analysis)
 - **IBM SPSS & R** (Statistical Analysis)
 - **SQL** (Data extraction and manipulation)
